@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Risque");
+
+.talker {
+  font-family: Risque;
+  font-size: 1.8rem;
+  font-weight: normal;
+  margin: 0 0 0 1.8rem;
+  transform: rotate(7deg);
+  display: block;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Rochester');
+
+
+.emoji-picker-react {
+  position: absolute !important;
+  z-index: 100;
+}
