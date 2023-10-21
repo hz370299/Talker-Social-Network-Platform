@@ -9,7 +9,6 @@
 
 ## Links:
 
-- Wiki Page: [https://github.com/cis557/fall-2021-project-group-centric-social-network-team-11/wiki](https://github.com/cis557/fall-2021-project-group-centric-social-network-team-11/wiki)
 - Figma Wireframes [https://www.figma.com/file/c5eObQUG9VhhMeD6Tt3JMj/Project?node-id=0%3A1](https://www.figma.com/file/c5eObQUG9VhhMeD6Tt3JMj/Project?node-id=0%3A1)
 - Swagger API Documentation: [https://app.swaggerhub.com/apis-docs/jhe2021/CIS557_Project/1.0.0#/](https://app.swaggerhub.com/apis-docs/jhe2021/CIS557_Project/1.0.0#/)
 - Swagger API Editor: [https://app.swaggerhub.com/apis/jhe2021/CIS557_Project/1.0.0#/](https://app.swaggerhub.com/apis/jhe2021/CIS557_Project/1.0.0#/)
